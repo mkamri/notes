@@ -71,12 +71,12 @@ _Note: items in **bold** are most commonly used. Please check out [this referenc
 
 ## Events
 
-| Event Handler / Listener          | Location        | Example                                                                               |
-| --------------------------------- | --------------- | ------------------------------------------------------------------------------------- |
-| Inline Event Handler              | HTML file       | &lt;button onclick="js/script.js"&gt;                                                 |
-| Event Handler Property            | JavaScript file | button.onclick = functionName;                                                        |
-| **Event Listeners**               | JavaScript file | button.addEventListener('click', functionName);                                       |
-| Anonymous Function Event Listener | JavaScript file | button.addEventListener('click', () => {p.textContent = "A glorious line of text"; }) |
+| Event Handler / Listener          | Location        | Example                                                                                |
+| --------------------------------- | --------------- | -------------------------------------------------------------------------------------- |
+| Inline Event Handler              | HTML file       | &lt;button onclick="js/script.js"&gt;                                                  |
+| Event Handler Property            | JavaScript file | button.onclick = functionName;                                                         |
+| **Event Listeners**               | JavaScript file | button.addEventListener('click', functionName);                                        |
+| Anonymous Function Event Listener | JavaScript file | button.addEventListener('click', () => {p.textContent = "A glorious line of text"; }); |
 
 ## Some Common Events
 
