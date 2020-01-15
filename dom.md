@@ -12,7 +12,8 @@ These are my notes on DOM manipulation. This cheatsheet uses a lot of info and c
 | Selector (single) | [#/./ ]selectorName | querySelector('[#/./ ]selectorName')    |
 | Selector (all)    | [#/./ ]selectorName | querySelectorAll('[#/./ ]selectorName') |
 
-##Traversing the DOM
+## Traversing the DOM
+
 \*Note: items in **bold** are most commonly used. Please check out [this reference guide](https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom) for more information on why.\*
 
 | Property                   | Gets the...                                  |
@@ -32,9 +33,9 @@ These are my notes on DOM manipulation. This cheatsheet uses a lot of info and c
 | **previousElementSibling** | previous sibling node that's also an element |
 | **nextElementSibling**     | next sibling node that's also an element     |
 
-##Changing the DOM
+## Changing the DOM
 
-###Creating New Nodes
+### Creating New Nodes
 
 | Property / Method                        | What it does:                        |
 | ---------------------------------------- | ------------------------------------ |
@@ -43,7 +44,7 @@ These are my notes on DOM manipulation. This cheatsheet uses a lot of info and c
 | node.textContent                         | get/set text content of element node |
 | node.innerHTML                           | get/set HTML content of element      |
 
-###Inserting Nodes Into the DOM
+### Inserting Nodes Into the DOM
 
 | Property / Method                       | What it does:                                    |
 | --------------------------------------- | ------------------------------------------------ |
@@ -51,45 +52,49 @@ These are my notes on DOM manipulation. This cheatsheet uses a lot of info and c
 | node.insertBefore(newNode, nextSibling) | insert newNode before nextSibling                |
 | node.replaceChild(newNode, oldNode)     | replace oldNode with newNode                     |
 
-###Removing Nodes From the DOM
+### Removing Nodes From the DOM
 
 | Method                                        | What it does:                                                        |
 | --------------------------------------------- | -------------------------------------------------------------------- |
 | node.removeElementChild(node.specifyTheChild) | removes a child of a node (firstElementChild, lastElementChild, etc) |
 | node.remove()                                 | removes a specified node from the DOM                                |
 
-##Events
+## Events
 
 Two parts to an event:
 Event **Handler**: A script that runs when an event occurs
 Event **Listener**: Allows an element to wait and "listen" for an event to fire
 
-###Inline Event Handler
+### Inline Event Handler
+
 Location: directly on the element in HTML
 Example:
 &lt;button onclick="js/script.js"&gt;
 
-###Event Handler Property in JS
+### Event Handler Property in JS
+
 Location: JavaScript file
 Example:
 button.onclick = functionName;
 _Note: all but the last will be ignored if you want more than one event handler with the same event (onclick, etc)_
 
-###Event Listeners (common practice)
+### Event Listeners (common practice)
+
 Location: JavaScript file
 Example:
 button.addEventListener('click', functionName);
 
-###Anonymous Function Event Listener
+### Anonymous Function Event Listener
+
 Location: JavaScript file
 Example:
 button.addEventListener('click', () => {
 p.textContent = "A glorious line of text";
 })
 
-##Some Common Events
+## Some Common Events
 
-###Mouse Events
+### Mouse Events
 
 | event      | triggered by...                        |
 | ---------- | -------------------------------------- |
@@ -99,7 +104,7 @@ p.textContent = "A glorious line of text";
 | mouseleave | pointer leaves an element              |
 | mousemove  | pointer moves around within an element |
 
-###Form Events
+### Form Events
 
 | event  | triggered by...                |
 | ------ | ------------------------------ |
@@ -107,7 +112,7 @@ p.textContent = "A glorious line of text";
 | focus  | when an element receives focus |
 | blur   | when an element loses focus    |
 
-###Keyboard Events
+### Keyboard Events
 
 | event    | triggered by...                                                 |
 | -------- | --------------------------------------------------------------- |
