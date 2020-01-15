@@ -2,7 +2,7 @@
 
 These are my notes on DOM manipulation. This cheatsheet uses a lot of info and charts based on [this tutorial](https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model), so please check it out for a fantastic in-depth guide on the basics of DOM manipulation with vanilla JavaScript!
 
-##Accessing the DOM
+## Accessing the DOM
 
 | Grab it by the... | CSS selector syntax | Method                                  |
 | ----------------- | ------------------- | --------------------------------------- |
