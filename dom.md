@@ -74,26 +74,26 @@ _Note: items in **bold** are most commonly used. Please check out [this referenc
 ### Inline Event Handler
 
 **Location**: directly on the element in HTML  
-Example:  
+**Example**:  
 &lt;button onclick="js/script.js"&gt;
 
 ### Event Handler Property in JS
 
 **Location**: JavaScript file  
-Example:  
+**Example**:  
 button.onclick = functionName;  
 _Note: all but the last will be ignored if you want more than one event handler with the same event (onclick, etc)_
 
 ### Event Listeners (common practice)
 
-Location: JavaScript file  
-Example:  
+**Location**: JavaScript file  
+**Example**:  
 button.addEventListener('click', functionName);
 
 ### Anonymous Function Event Listener
 
-Location: JavaScript file  
-Example:  
+**Location**: JavaScript file  
+**Example**:  
 button.addEventListener('click', () => {  
 p.textContent = "A glorious line of text";  
 })
