@@ -14,7 +14,7 @@ These are my notes on DOM manipulation. This cheatsheet uses a lot of info and c
 
 ## Traversing the DOM
 
-\*Note: items in **bold** are most commonly used. Please check out [this reference guide](https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom) for more information on why.\*
+_Note: items in **bold** are most commonly used. Please check out [this reference guide](https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom) for more information on why._
 
 ### Parent Nodes
 
