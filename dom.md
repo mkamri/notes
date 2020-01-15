@@ -71,35 +71,35 @@ _Note: items in **bold** are most commonly used. Please check out [this referenc
 
 ## Events
 
-Two parts to an event:
-Event **Handler**: A script that runs when an event occurs
+Two parts to an event:  
+Event **Handler**: A script that runs when an event occurs  
 Event **Listener**: Allows an element to wait and "listen" for an event to fire
 
 ### Inline Event Handler
 
-Location: directly on the element in HTML
-Example:
+**Location**: directly on the element in HTML  
+Example:  
 &lt;button onclick="js/script.js"&gt;
 
 ### Event Handler Property in JS
 
-Location: JavaScript file
-Example:
-button.onclick = functionName;
+**Location**: JavaScript file  
+Example:  
+button.onclick = functionName;  
 _Note: all but the last will be ignored if you want more than one event handler with the same event (onclick, etc)_
 
 ### Event Listeners (common practice)
 
-Location: JavaScript file
-Example:
+Location: JavaScript file  
+Example:  
 button.addEventListener('click', functionName);
 
 ### Anonymous Function Event Listener
 
-Location: JavaScript file
-Example:
-button.addEventListener('click', () => {
-p.textContent = "A glorious line of text";
+Location: JavaScript file  
+Example:  
+button.addEventListener('click', () => {  
+p.textContent = "A glorious line of text";  
 })
 
 ## Some Common Events
