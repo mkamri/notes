@@ -71,10 +71,6 @@ _Note: items in **bold** are most commonly used. Please check out [this referenc
 
 ## Events
 
-Two parts to an event:  
-Event **Handler**: A script that runs when an event occurs  
-Event **Listener**: Allows an element to wait and "listen" for an event to fire
-
 ### Inline Event Handler
 
 **Location**: directly on the element in HTML  
