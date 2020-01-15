@@ -16,18 +16,28 @@ These are my notes on DOM manipulation. This cheatsheet uses a lot of info and c
 
 \*Note: items in **bold** are most commonly used. Please check out [this reference guide](https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom) for more information on why.\*
 
+### Parent Nodes
+
+| Property       | Gets the...                        |
+| -------------- | ---------------------------------- |
+| **parentNode** | parent node                        |
+| parentElement  | parent node that's also an element |
+
+### Child Nodes
+
+| Property              | Gets the...                             |
+| --------------------- | --------------------------------------- |
+| childNodes            | all child nodes                         |
+| firstChild            | first child node                        |
+| lastChild             | last child node                         |
+| **children**          | child node that's also an element       |
+| **firstElementChild** | first child node that's also an element |
+| **lastElementChild**  | last child node that's also an element  |
+
+### Sibling Nodes
+
 | Property                   | Gets the...                                  |
 | -------------------------- | -------------------------------------------- |
-| **parentNode**             | parent node                                  |
-| parentElement              | parent node that's also an element           |
-|                            |                                              |
-| childNodes                 | all child nodes                              |
-| firstChild                 | first child node                             |
-| lastChild                  | last child node                              |
-| **children**               | child node that's also an element            |
-| **firstElementChild**      | first child node that's also an element      |
-| **lastElementChild**       | last child node that's also an element       |
-|                            |                                              |
 | previousSibling            | previous sibling node                        |
 | nextSibling                | next sibling node                            |
 | **previousElementSibling** | previous sibling node that's also an element |
