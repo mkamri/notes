@@ -30,10 +30,11 @@ Here are all the tools you need to complete [this tutorial](https://youtu.be/b8s
  
 *listener*: The object that receives a notification of the event (like a JavaScript function) 
  
-*EXAMPLE*
-```document.addEventListener("keyup", function(event){
-        if(event.keyCode == 13){
-            console.log("The ENTER key was pressed!");
-        }
-    });
+*example:*
+```
+document.addEventListener("keyup", function(event){
+    if(event.keyCode == 13){
+        console.log("The ENTER key was pressed!");
+    }
+});
 ```
