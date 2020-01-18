@@ -6,14 +6,14 @@ Here are all the tools you need to complete [this tutorial](https://youtu.be/b8s
 
 [insertAdjacentHTML()](#insert-adjacent-html)
 
-## Insert Adjacent HTML
+### Insert Adjacent HTML
 
 [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentHTML)
 
 **SYNTAX**: 
 ```element.insertAdjacentHTML(position, text);``` 
  
-  
 *position*: 'beforebegin', 'afterbegin', 'beforeend', 'afterend' 
  
 *text*: the string to be parsed as HTML. Use backticks (``) for multiline HTML strings.
+
