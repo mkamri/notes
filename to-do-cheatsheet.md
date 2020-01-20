@@ -4,9 +4,9 @@ Here are all the tools you need to complete [this tutorial](https://youtu.be/b8s
 
 ### Table of Contents
 
-[insertAdjacentHTML()](#insert-adjacent-html) 
-[addEventListener()](#add-an-event-listener) 
-[Get the Value of Text Input Field](#get-the-value-of-text-input-field)
+[insertAdjacentHTML()](#insert-adjacent-html)\
+[addEventListener()](#add-an-event-listener)\
+[Get the Value of Text Input Field](#get-the-value-of-text-input-field) 
 
 ## Insert Adjacent HTML
 
