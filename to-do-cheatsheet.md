@@ -7,7 +7,7 @@ Here are all the tools you need to complete [this tutorial](https://youtu.be/b8s
 [insertAdjacentHTML()](#insert-adjacent-html)\
 [addEventListener()](#add-an-event-listener)\
 [Get the Value of Text Input Field](#get-the-value-of-text-input-field)\
-[Switch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
+[Switch](#switch)
 
 ## Insert Adjacent HTML
 
