@@ -6,7 +6,8 @@ Here are all the tools you need to complete [this tutorial](https://youtu.be/b8s
 
 [insertAdjacentHTML()](#insert-adjacent-html)\
 [addEventListener()](#add-an-event-listener)\
-[Get the Value of Text Input Field](#get-the-value-of-text-input-field) 
+[Get the Value of Text Input Field](#get-the-value-of-text-input-field)\
+[Switch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
 
 ## Insert Adjacent HTML
 
@@ -50,3 +51,22 @@ const inputBox = document.getElementByID("inputBox");
 inputBox.value
 ``` 
 
+## Switch
+
+[MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
+
+**SYNTAX**: 
+
+```
+switch (expression) {
+    case value1:
+        //Statements executed when the result of the expression matches value1
+        [break;]
+    case valueN:
+        //Statements executed when the result of the expression matches valueN
+        [break;]
+    [default:
+        Statements executed when none of the valuess match the values of the expression
+        [break;]]
+}
+```
