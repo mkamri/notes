@@ -61,12 +61,12 @@ inputBox.value
 switch (expression) {
     case value1:
         //Statements executed when the result of the expression matches value1
-        [break;]
+        break;
     case valueN:
         //Statements executed when the result of the expression matches valueN
-        [break;]
+        break;
     [default:
         Statements executed when none of the valuess match the values of the expression
-        [break;]]
+        break;
 }
 ```
