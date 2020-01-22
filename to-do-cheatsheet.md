@@ -7,7 +7,8 @@ Here are all the tools you need to complete [this tutorial](https://youtu.be/b8s
 [insertAdjacentHTML()](#insert-adjacent-html)\
 [addEventListener()](#add-an-event-listener)\
 [Get the Value of Text Input Field](#get-the-value-of-text-input-field)\
-[Switch](#switch)
+[Switch](#switch)\
+[Get Element Class](#get-element-class)
 
 ## Insert Adjacent HTML
 
@@ -69,4 +70,13 @@ switch (expression) {
         Statements executed when none of the valuess match the values of the expression
         break;
 }
+```
+
+## Get Element Class
+
+[W3 Schools](https://www.w3schools.com/jsref/prop_html_classname.asp) 
+
+**SYNTAX**: 
+```
+element.className = "elementClassName";
 ```
