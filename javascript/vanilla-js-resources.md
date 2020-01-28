@@ -16,5 +16,17 @@ If you are an absolute beginner, please note that it's completely normal to feel
 <br>
 
 [Codewars](https://www.codewars.com/): This is hands down my favorite place to learn programming as a whole. Even if you only plan on using JavaScript for web development, I'd recommend training on codewars just to get your brain in a "programming" mode. I spent about a month doing codewars challenges as warm-ups, and I'd say they're the main reason I'm where I am today with JavaScript.
+<br>
 
 [The Coding Train - Youtuber](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw): This is my favorite youtuber to learn CONCEPTS about programming from. He's fun, excited, and engaging. When I have a question on how to use a particular method in JavaScript, I always check to see if he has a video first.
+
+## DOM Manipulation Resources
+
+[Understanding the Document Object Model - Digital Ocean](https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model): This is by far my favorite resource for learning about the document object model. I followed all the tutorials and took quite a lot of notes, which can be found [here](./cheatsheets/dom-cheatsheet.md).
+<br>
+
+[JavaScript HTML DOM - W3 Schools](https://www.w3schools.com/js/js_htmldom.asp): Used this as a reference to understand DOM elements and methods as they came up in other tutorials.
+
+## App Tutorials
+
+[To-Do List App Tutorial - Code Explained](https://www.youtube.com/watch?v=b8sUhU_eq3g): This is the first project I built using HTML DOM manipulation. He spends the first half of the video explaining what the plan for the code is, so don't be worried if you can't put it all together at first. I'd recommend getting very comfortable with HTML, CSS and Vanilla JS before attempting this. You can find my notes on the project [here](./cheatsheets/to-do-cheatsheet).
