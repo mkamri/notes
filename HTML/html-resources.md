@@ -14,6 +14,14 @@ One of the hardest parts about teaching yourself web development is knowing what
 
 ## Design Resources
 
-[Free Stock Images - Pexels](pexels.com): A great resource for free-to-use images.
+[Free Stock Images - Pexels](https://pexels.com/): A great resource for free-to-use images.
+
+[Freely Usable Images](https://unsplash.com/): Another great resource for free-to-use images.
 
 [Simple Color Palettes - Color Hunt](https://colorhunt.co/): Easily pick colors that go well together.
+
+[pages.xyz](https://www.pages.xyz/): A source for the best web pages around.
+
+[Make some waves!](https://getwaves.io/): SVG waves generator.
+
+[Blobmaker](https://www.blobmaker.app/): A Source ofr quickly generate random, unique, and organic-looking SVG shapes.
