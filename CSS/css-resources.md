@@ -2,7 +2,7 @@
 
 One of the hardest parts about teaching yourself web development is knowing what resources to use. These are the guides, tutorials, and other sources that I found to be the most helpful for learning CSS from the beginner level.
 
-### Beginner CSS Resources
+## Beginner CSS Resources
 [Free Hands-on Basic CSS Course - freecodecamp.org](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/): A basic course that walks you through the tools you have in your arsenal with CSS. Should be used in tandem with other resources.
 <br>
 <br>
@@ -15,7 +15,7 @@ One of the hardest parts about teaching yourself web development is knowing what
 <br>
 <br>
 
-### Flexbox / Grid Rexources
+## Flexbox / Grid Rexources
 [Floats, Flexbox, Grid? - Kevin Powell](https://www.youtube.com/watch?v=R7gqJkdc5dM): Explains the difference between using floats, flexbox, and grid.
 <br>
 <br>
