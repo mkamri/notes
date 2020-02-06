@@ -32,6 +32,11 @@ If you are an absolute beginner, please note that it's completely normal to feel
 
 [Explaining JS's Prototype Like You're Five - dev.to](https://dev.to/codesmith_staff/explain-javascripts-prototype-chain-like-im-five-51p): Description in the title. I've spent a good couple of hours trying to figure out the prototype chain, and this was the resource that finally did it for me.
 
+## AJAX / Working with API's
+
+[How to fix the CORS error - Medium](https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9): I'm mostly just including this for my own reference. This is a great resource explaining the CORS error and how to fix it.
+<br>
+
 ## App Tutorials
 
 [To-Do List App Tutorial - Code Explained](https://www.youtube.com/watch?v=b8sUhU_eq3g): This is the first project I built using HTML DOM manipulation. He spends the first half of the video explaining what the plan for the code is, so don't be worried if you can't put it all together at first. I'd recommend getting very comfortable with HTML, CSS and Vanilla JS before attempting this. You can find my notes on the project [here](./cheatsheets/to-do-cheatsheet).
