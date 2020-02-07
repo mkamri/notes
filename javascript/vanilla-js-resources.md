@@ -33,7 +33,9 @@ If you are an absolute beginner, please note that it's completely normal to feel
 [Explaining JS's Prototype Like You're Five - dev.to](https://dev.to/codesmith_staff/explain-javascripts-prototype-chain-like-im-five-51p): Description in the title. I've spent a good couple of hours trying to figure out the prototype chain, and this was the resource that finally did it for me.
 
 ## Asynchronous Coding
-[Understanding JavaScript Callbacks - All Things JavaScript](https://www.youtube.com/watch?v=Nau-iEEgEoM): A great resource explaining callbacks and their various forms and uses.
+[Understanding JavaScript Callbacks - All Things JavaScript](https://www.youtube.com/watch?v=Nau-iEEgEoM): A great video explaining callbacks and their various forms and uses.
+
+[What the heck is a callback? - Codeburst](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced): Explains callbacks in plain English with clear examples.
 
 ## Working with API's
 
