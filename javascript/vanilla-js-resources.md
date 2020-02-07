@@ -32,7 +32,9 @@ If you are an absolute beginner, please note that it's completely normal to feel
 
 [Explaining JS's Prototype Like You're Five - dev.to](https://dev.to/codesmith_staff/explain-javascripts-prototype-chain-like-im-five-51p): Description in the title. I've spent a good couple of hours trying to figure out the prototype chain, and this was the resource that finally did it for me.
 
-## AJAX / Working with API's
+
+
+## Working with API's
 
 [How to fix the CORS error - Medium](https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9): I'm mostly just including this for my own reference. This is a great resource explaining the CORS error and how to fix it.
 <br>
