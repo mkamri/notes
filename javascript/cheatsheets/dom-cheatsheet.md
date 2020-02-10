@@ -89,6 +89,7 @@ _Note: items in **bold** are most commonly used. Please check out [this referenc
 | mouseenter | pointer enters and element             |
 | mouseleave | pointer leaves an element              |
 | mousemove  | pointer moves around within an element |
+| DOMContentLoaded | the content in the element was loaded |
 
 ### Form Events
 
