@@ -28,6 +28,8 @@ If you are an absolute beginner, please note that it's completely normal to feel
 [JavaScript HTML DOM - W3 Schools](https://www.w3schools.com/js/js_htmldom.asp): Used this as a reference to understand DOM elements and methods as they came up in other tutorials.
 <br>
 
+[An Introduction to Local Storage with JavaScript - Zac Gordon](https://www.youtube.com/watch?v=T9GWHFDcELQ): Not strictly related to DOM manipulation, but it's crucial for learning about working with JavaScript as it relates to the browser. This video explained local storage in a concice and useful way.
+
 ## Object Oriented Programming
 
 [Explaining JS's Prototype Like You're Five - dev.to](https://dev.to/codesmith_staff/explain-javascripts-prototype-chain-like-im-five-51p): Description in the title. I've spent a good couple of hours trying to figure out the prototype chain, and this was the resource that finally did it for me.
