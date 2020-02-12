@@ -20,3 +20,7 @@ One of the hardest parts about teaching yourself web development is knowing what
 <br>
 
 [Grid Garden](https://cssgridgarden.com/): Made by the creators of Felxbox Froggy. Again, PLEASE use this before attempting to mess with grid.
+
+## SASS / SCSS
+
+[Watch and Compile Sass in Five Quick Steps - tutsplus](https://webdesign.tutsplus.com/tutorials/watch-and-compile-sass-in-five-quick-steps--cms-28275): Explains how to set up your project for use with SASS/SCSS.
