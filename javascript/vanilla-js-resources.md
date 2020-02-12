@@ -47,3 +47,5 @@ If you are an absolute beginner, please note that it's completely normal to feel
 ## App Tutorials
 
 [To-Do List App Tutorial - Code Explained](https://www.youtube.com/watch?v=b8sUhU_eq3g): This is the first project I built using HTML DOM manipulation. He spends the first half of the video explaining what the plan for the code is, so don't be worried if you can't put it all together at first. I'd recommend getting very comfortable with HTML, CSS and Vanilla JS before attempting this. You can find my notes on the project [here](./cheatsheets/to-do-cheatsheet).
+
+[Guide For Creating a Simple Modal - Daniel Sternlicht](https://github.com/dsternlicht/the-ultimate-guide-for-creating-a-simple-modal-in-react-vue-angular-and-vanilla-js): This is a guide for creating a modal component (dialog / popup box) using HTML, CSS, and either JavaScript, React, or Angular. I used this as a loose guideline and built my own from it, but it was a very helpful starting place. You can find the guide that goes along with the github repo [here](https://hackernoon.com/the-ultimate-guide-for-creating-a-simple-modal-component-in-vanilla-javascript-react-angular-8733e2859b42).
