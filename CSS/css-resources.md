@@ -19,7 +19,7 @@ One of the hardest parts about teaching yourself web development is knowing what
 [Flexbox Froggy](https://flexboxfroggy.com/): PLEASE use this before attempting to mess with flexbox. It's a cute little browser game that will save you hours of time.
 <br>
 
-[Flexbox Cheatsheet - yoksel](https://yoksel.github.io/flex-cheatsheet/#align-self): Beautifully made cheatsheet for flexbox.
+[Flexbox Cheatsheet - yoksel](https://yoksel.github.io/flex-cheatsheet/): Beautifully made cheatsheet for flexbox.
 
 [Grid Garden](https://cssgridgarden.com/): Made by the creators of Felxbox Froggy. Again, PLEASE use this before attempting to mess with grid.
 
