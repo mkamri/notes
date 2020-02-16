@@ -26,3 +26,6 @@ One of the hardest parts about teaching yourself web development is knowing what
 ## SASS / SCSS
 
 [Watch and Compile Sass in Five Quick Steps - tutsplus](https://webdesign.tutsplus.com/tutorials/watch-and-compile-sass-in-five-quick-steps--cms-28275): Explains how to set up your project for use with SASS/SCSS.
+
+## Design Resources
+[UI Gradients](https://uigradients.com/): Great resource for finding premade gradients for a professional-looking website
