@@ -30,6 +30,8 @@ If you are an absolute beginner, please note that it's completely normal to feel
 
 [An Introduction to Local Storage with JavaScript - Zac Gordon](https://www.youtube.com/watch?v=T9GWHFDcELQ): Not strictly related to DOM manipulation, but it's crucial for learning about working with JavaScript as it relates to the browser. This video explained local storage in a concice and useful way.
 
+[How to Write Good Error Messages - uxplanet](https://uxplanet.org/how-to-write-good-error-messages-858e4551cd4): Crucial for good user interface.
+
 ## Object Oriented Programming
 
 [Explaining JS's Prototype Like You're Five - dev.to](https://dev.to/codesmith_staff/explain-javascripts-prototype-chain-like-im-five-51p): Description in the title. I've spent a good couple of hours trying to figure out the prototype chain, and this was the resource that finally did it for me.
