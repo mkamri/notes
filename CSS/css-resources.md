@@ -29,3 +29,6 @@ One of the hardest parts about teaching yourself web development is knowing what
 
 ## Design Resources
 [UI Gradients](https://uigradients.com/): Great resource for finding premade gradients for a professional-looking website
+
+## Bootstrap Resources
+[Bootstrap 4 Concepts & Setup](https://www.youtube.com/watch?v=7g8Gg2QVdeU): The first video in a webseries that takes you through bootstrap in bite-sized chunks. Great for after you've mastered CSS.
