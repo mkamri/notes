@@ -9,7 +9,7 @@ All the basics to set up a simple website with PHP.
 
 # Control Structures
 
-## foreach loops
+## FOREACH
 ### Syntax form 1:
 ```
 foreach (array_expression as $value) {
@@ -27,7 +27,7 @@ foreach (array_expression as $key => $value) {
 ```
 Form 2 also assigns the current element's key to the `$key` variable on each iteration. 
 
-## while loops
+## WHILE
 ### Syntax:
 ```
 while (expr) {
