@@ -10,13 +10,14 @@ All the basics to set up a simple website with PHP.
 # Control Structures
 
 ## foreach
-Syntax: 
+Syntax:\
+Example 1:
 ```
 foreach (array_expression as $value) {
     statement;
 }
 ```
-OR
+Example 2:
 ```
 foreach (array_expression as $key => $value) {
     statement
