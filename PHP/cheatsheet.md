@@ -9,7 +9,7 @@ All the basics to set up a simple website with PHP.
 
 # Control Structures
 
-## foreach
+## foreach loops
 ### Syntax form 1:
 ```
 foreach (array_expression as $value) {
@@ -22,9 +22,25 @@ Form 1 loops over the array given by `array_expression`. On each iteration, the 
 ### Syntax form 2:
 ```
 foreach (array_expression as $key => $value) {
-    statement
+    statement;
 }
 ```
 Form 2 also assigns the current element's key to the `$key` variable on each iteration. 
 
-
+## while loops
+### Syntax:
+```
+while (expr) {
+    statement;
+}
+```
+*While* tells PHP to execute the nested statements repeatedly, as long as the *while* expression evaluates to **TRUE**.\
+Note that this can create an endless loop, so you must be careful that your expression will eventually evaluate to **FALSE**.\
+### Example:
+```
+$month = 1;
+while ($month <=12) {
+    echo $month . ", ";
+    $month = $month + 1;
+}
+```
