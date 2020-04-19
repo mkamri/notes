@@ -1,5 +1,5 @@
 # PHP Cheatsheet
-All the basics to set up a simple website with PHP.
+PHP basic syntax and other useful things.
 
 ## Basic Facts
 * PHP runs on the web server, meaning it is **not** viewed by the actual browser.
